@@ -9,6 +9,6 @@ python3 decoder.py
 ```
 
 ## 開發紀錄
-- Part 1. https://hackmd.io/@93i7xo2/jpeg-decoder-1
-- Part 2. https://hackmd.io/@93i7xo2/jpeg-decoder-2
-- Part 3. https://hackmd.io/@93i7xo2/jpeg-decoder-3
+- [Part 1](https://hackmd.io/@93i7xo2/jpeg-decoder-1)
+- [Part 2](https://hackmd.io/@93i7xo2/jpeg-decoder-2)
+- [Part 3](https://hackmd.io/@93i7xo2/jpeg-decoder-3)
